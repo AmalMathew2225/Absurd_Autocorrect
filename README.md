@@ -39,7 +39,7 @@ For Software:
 
 # Installation
 =======
-# 🎭 Errorly - The Mean Autocorrect Extension
+# 🎭 Absurd Autocorrect- The Mean Autocorrect Extension
 
 A Chrome extension that intentionally replaces words with insulting, sarcastic, or otherwise rude/funny alternatives. Because nice is boring.
 
@@ -265,3 +265,4 @@ Made with ❤️ at TinkerHub Useless Projects
 =======
 **Made with 💔 by developers who gave up on being nice** 
 >>>>>>> e51dcbb (Updated files)
+
