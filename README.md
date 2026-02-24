@@ -71,24 +71,12 @@ A Chrome extension that intentionally replaces words with insulting, sarcastic, 
 ### Project Documentation
 For Software:
 
-# Screenshots (Add at least 3)
-<img width="863" height="562" alt="Annotation 2025-08-09 181413" src="https://github.com/user-attachments/assets/8509564f-ee3f-4b89-9645-0b62053752b1" />
+# Screenshots 
 
-
-<img width="1909" height="986" alt="image" src="https://github.com/user-attachments/assets/af29fbf1-bc7b-45bf-9d74-0003c944532e" />
+<img width="764" height="920" alt="image" src="https://github.com/user-attachments/assets/ab4304c3-98fd-47cd-a85f-876ab11ec550" />
 
 
 
-# Build Photos
-![Components](Add photo of your components here)
-*List out all components shown*
-
-![Build](Add photos of build process here)
-*Explain the build steps*
-
-![Final](Add photo of final product here)
-*Explain the final build*
-=======
 ### 📊 Statistics & Monitoring
 - Tracks number of insults injected per session
 - Displays current mode and replacement count
@@ -243,13 +231,6 @@ Want to make Errorly even meaner? Contributions welcome!
 [Add your demo video link here]
 *Explain what the video demonstrates*
 
-# Additional Demos
-[Add any extra demo materials/links]
-
-## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
 
 ## ⚠️ Disclaimer
 
@@ -265,4 +246,5 @@ Made with ❤️ at TinkerHub Useless Projects
 =======
 **Made with 💔 by developers who gave up on being nice** 
 >>>>>>> e51dcbb (Updated files)
+
 
