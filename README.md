@@ -2,7 +2,7 @@
 <img width="3188" height="1202" alt="frame (3)" src="https://github.com/user-attachments/assets/517ad8e9-ad22-457d-9538-a9e62d137cd7" />
 
 
-# Absurd Autocorrect Chrome Extension 🎯
+# #Errorly - The Absurd Autocorrect Chrome Extension 🎯
 
 
 ## A quirky Chrome extension that turns your typing into chaos with absurd autocorrect 
@@ -39,7 +39,7 @@ For Software:
 
 # Installation
 =======
-# 🎭 Absurd Autocorrect- The Mean Autocorrect Extension
+# 🎭Errorly - The Absurd Autocorrect- The Mean Autocorrect Extension
 
 A Chrome extension that intentionally replaces words with insulting, sarcastic, or otherwise rude/funny alternatives. Because nice is boring.
 
@@ -246,5 +246,6 @@ Made with ❤️ at TinkerHub Useless Projects
 =======
 **Made with 💔 by developers who gave up on being nice** 
 >>>>>>> e51dcbb (Updated files)
+
 
 
